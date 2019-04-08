@@ -1,0 +1,16 @@
+		.make-center
+		{
+			display: flex;
+			justify-content:center;
+			align-items: center; 
+		}
+		.beautify
+		{
+			color: white;
+		}
+		.make-right
+		{
+			display: flex;
+			justify-content:flex-end;
+			align-items: center; 
+		}
